@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences [Hackademy] I collaborated with Hackademy with a prototype about delivery collection in backend side
+- 📄 Know about my experiences **Hackademy** I collaborated with Hackademy with a prototype about delivery collection in backend side
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
